@@ -39,6 +39,7 @@
     "no-use-before-define": "off",
     "camelcase": "off",
     "no-unused-expressions": "off",
+    "import/no-duplicates": "off",
     "react/jsx-one-expression-per-line" :"off",
     "@typescript-eslint/ban-types": "off",
     "@typescript-eslint/explicit-function-return-type": [
